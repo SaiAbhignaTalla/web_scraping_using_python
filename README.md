@@ -15,7 +15,7 @@ Visits each individual webtoon page and collects detailed information, including
 - Rating – Average reader rating
 - Age Rating – Suitable audience age group
 - Status/Note – Any special notes (e.g., paywall or content status)
-Saves all collected data into a structured CSV file named [webtoons_details.csv](./webtoons_details) for easy access and analysis.
+Saves all collected data into a structured CSV file named [webtoons_details.csv](./webtoons_details.csv) for easy access and analysis.
 
 ## Requirements
 - Python 3.x
@@ -28,7 +28,7 @@ pip install requests beautifulsoup4
 
 ## Script:
 You can find the full scraping script in the file:
-[webtoons_scraper.py](./webtoons_scraper).
+[webtoons_scraper.py](./webtoons_scraper.py).
 
 This Script:
 - Fetches the Webtoons Originals main page
