@@ -28,7 +28,7 @@ pip install requests beautifulsoup4
 
 ## Script:
 You can find the full scraping script in the file:
-[webtoons_scraper.py](./webtoons_scraper.py).
+[webtoons_scraper.py](./webtoons_scraper).
 
 This Script:
 - Fetches the Webtoons Originals main page
